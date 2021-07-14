@@ -1,4 +1,4 @@
-<h1 align="centre">EDITH MUSIC PLAYER 🎵</h1>
+<h1 align="centre">🎵 EDITH MUSIC PLAYER 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
