@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V3 🎵</h1>
+<h1 align="centre">EDITH MUSIC PLAYER 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @DaisyXbot
+# Available on telegram as @edithmusicplayerbot
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/6bb7e3dba4d4a7e6420af.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -62,3 +62,4 @@ Use [@DaisyXStringGeneratorBot](https://t.me/DaisyXStringGeneratorBot) to get py
 - [ImJanindu](https://github.com/ImJanindu): 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
+
