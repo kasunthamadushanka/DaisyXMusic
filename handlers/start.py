@@ -39,7 +39,7 @@ async def start(_, message: Message):
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "Support Chat 🎙️", url="https://t.me/epusthakalayabotsupport"
+                        "👥 Support Chat 👥", url="https://t.me/epusthakalayabotsupport"
                     )]
             ]
         ),
@@ -53,7 +53,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎙️ Support Group 🎙️", url="https://t.me/epusthakalayabots")
+                        "🎙️ Support Group 🎙️", url="https://t.me/epusthakalayabotsupport")
                 ]
             ]
         )
